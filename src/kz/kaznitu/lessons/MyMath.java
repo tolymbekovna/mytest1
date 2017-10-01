@@ -7,7 +7,7 @@ public class MyMath {
     public static int kub(int a) {
         return a * a * a;
     }
-    public static int isOdd(int a){
+    public static boolean isOdd(int a){
     return (a%2!=0);
     }
 }
